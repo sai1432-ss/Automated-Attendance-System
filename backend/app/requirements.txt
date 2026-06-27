@@ -1,0 +1,15 @@
+Flask
+gunicorn
+deepface
+mtcnn
+opencv-python
+numpy
+tensorflow>=2.8.0,<2.15.0
+pymongo[srv]
+torch
+torchvision
+torchaudio
+Pillow    
+python-dotenv
+cloudinary
+Flask-Cors
